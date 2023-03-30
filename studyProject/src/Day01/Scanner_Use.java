@@ -2,7 +2,7 @@ package Day01;
 
 import java.util.Scanner; // ctrl + shift + o를 사용하여 임포트 할 수 있음
 
-public class Basic02 {
+public class Scanner_Use {
 
 	public static void main(String[] args) {
 		//클래스명 객체명 = new 클래스명(준비물);

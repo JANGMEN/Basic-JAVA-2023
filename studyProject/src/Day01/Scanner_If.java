@@ -10,7 +10,7 @@ import java.util.Scanner;
 // || : OR
 
 
-public class Basic03 {
+public class Scanner_If {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
