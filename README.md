@@ -39,6 +39,28 @@ Eclipse를 이용한 JAVA 복습
 
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day01_9.png" width="600">
 
+## 2일차
+
+※ 실수형 변수 3개를 스캐너로 입력받아 평균과 성적 출력하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_1.png" width="600">
+
+※ 두 개의 숫자를 입력받아 반복문을 사용하여 범위 만큼 출력하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_2.png" width="600">
+
+※ 숫자 1개를 입력받아 3의 배수에만 1을 출력하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_3.png" width="600">
+
+※ 반복문을 사용하여 별 찍기, 역순으로도 별 찍기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_4.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_5.png" width="600">
+
+※ 숫자를 입력받았을 때 정방향, 역방향으로 출력하기 ex) 5를 입력받으면 1 2 3 4 5 4 3 2 1
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_6.png" width="600">
 
 
 
