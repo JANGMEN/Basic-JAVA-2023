@@ -34,7 +34,7 @@ public class Java02_array {
 		System.out.println(str1);
 		System.out.println(ret[0]);
 		System.out.println(ret[1]);
-		System.out.println(str.substring(0, 3));
+		System.out.println(str.substring(0, 3)); // 시작지점과 선택지점을 선택하여 결과 출력
 
 	}
 
