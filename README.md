@@ -62,5 +62,37 @@ Eclipse를 이용한 JAVA 복습
 
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day02_6.png" width="600">
 
+## 3일차
+
+※ 숫자를 입력받았을 때, 3의 배수의 합 구하기 ex) 13을 입력받으면 3 + 6 + 9 + 12
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_1.png" width="600">
+
+※ 숫자를 입력받았을 때, 홀수와 짝수의 합 각각 구하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_2.png" width="600">
+
+※ 숫자를 입력받아 구구단 출력하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_3.png" width="600">
+
+※ 배열의 기본적인 동작 원리 알아보기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_4.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_5.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_6.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_9.png" width="600">
+
+※ 배열을 이용하여 합과 평균 구하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_7.png" width="600">
+
+※ 선언된 배열을 가지고 반복문을 사용하여 짝수만 출력하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_8.png" width="600">
+
+
+
+
 
 
