@@ -91,6 +91,28 @@ Eclipse를 이용한 JAVA 복습
 
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day03_8.png" width="600">
 
+## 4일차
+
+※ 멀티 파라미터, 리턴값
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_1.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_2.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_3.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_4.png" width="600">
+
+※ 메소드 내에서 조건문 선언하여 메인에서 실행하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_5.png" width="600">
+
+※ 매개변수가 다른 동일한 이름을 가진 메소드 사용하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_6.png" width="600">
+
+※ 
+
+
+
+
 
 
 
