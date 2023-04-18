@@ -108,7 +108,33 @@ Eclipse를 이용한 JAVA 복습
 
 <img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day04_6.png" width="600">
 
-※ 
+## 5일차
+
+※ 슈퍼클래스와 자바의 다형성
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_1.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_2.png" width="600">
+
+※ 외부 클래스와 내부 클래스
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_3.png" width="600">
+
+  - 내부 클래스가 static이면 외부 클래스의 개체를 만들지 않고도 액세스 가능
+  
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_4.png" width="600">
+
+※ 내부 클래스에서 외부 클래스에 접근하기
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_5.png" width="600">
+
+※ 추상 클래스와 메소드
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_6.png" width="600">
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_7.png" width="600">
+
+※ 인터페이스
+
+<img src="https://raw.githubusercontent.com/JANGMEN/Basic-JAVA-2023/main/image/Day05_8.png" width="600">
 
 
 
